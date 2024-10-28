@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47486639205",
+    "project_id": "react-native-c7239",
+    "storage_bucket": "react-native-c7239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47486639205:android:d92aea2e05de68bc69ba8c",
+        "android_client_info": {
+          "package_name": "com.hello"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLgiKS1uC1Hu0WkErwaawTwXVRDQxcPCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
